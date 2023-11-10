@@ -1,0 +1,202 @@
+body
+{
+	font-family: "Heebo","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+	font-size:17px;
+	margin:0;
+	background-color:white;
+}
+html
+{
+    margin: 0;
+    padding: 0;	
+}
+ul, li, form, p, h1, h2, h3, h4, h5 ,h6
+{
+	margin:0;
+}
+.clearfix:after
+{
+	content:" ";
+	clear:both;
+	visibility:hedden;
+	display:block;
+	height:0px;
+}
+
+
+.clsWrapper
+{
+	width:100%;
+	margin:0px auto;
+}
+
+.clsFnt_lg
+{
+	font-size:45px;
+}
+.clsFnt_sm
+{
+	font-size:13px;
+}
+.clsFnt_md
+{
+	font-size:18px;
+}
+
+.clsPadding_lg
+{
+	padding:60px 0px;
+}
+.clsPadding_sm
+{
+	padding:10px 0px;
+}
+.clsPadding_md
+{
+	padding:30px 0px;
+}
+
+.clsPad_LR
+{
+	padding:0px 7%;
+}
+
+.clsPad_top
+{
+	padding-top:20px;
+}
+.clsPad_bot
+{
+	padding-bottom:20px;
+}
+
+.clsMrg_top
+{
+	margin-top:10%;
+}
+.clsMrg_bot
+{
+	margin-bottom:10%;
+}
+
+.clsNo_Pad
+{
+	padding:0px;
+}
+.clsNo_Mrg
+{
+	margin:0px;
+}
+
+.clsTxt_Lft
+{
+	text-align:left;
+}
+.clsTxt_Rgt
+{
+	text-align:right;
+}
+.clsTxt_center
+{
+	text-align:center;
+}
+.clsTxt_justify
+{
+	text-align:justify;
+}
+
+.clsTxt_wht
+{
+	color:white;
+}
+.clsTxt_blc
+{
+	color:#2e2e2e;
+}
+
+.clsTrans_bg_wht
+{
+    background-color: rgba(255, 255, 255, 0.85);
+}
+.clsTrans_bg_blc
+{
+    background-color: rgba(36, 36, 36, 0.4);
+}
+.clsTrans_bg_col1
+{
+    background-color: rgba(1, 58, 147, 0.85);
+}
+.clsTrans_bg_col2
+{
+    background-color: rgba(0, 156, 239, 0.85);
+}
+
+
+.clsBg_wht
+{
+	background:#ffffff;
+	color:#2e2e2e;
+}
+.clsBg_gry
+{
+	background:#f4f4f4;
+	color:#121212;
+}
+.clsBg_blc
+{
+	background:#161515;
+	color:#a3a096;
+}
+.clBg_col1
+{
+	background:#0c1a43;
+	color:white;
+}
+.clBg_col2
+{
+	background:#3e4d79;
+	color:white;
+}
+
+.clsHeader
+{
+	background:#0d142e;
+	color:white;
+}
+
+.clsBg_head
+{
+	background-position: center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-image: url('../images/bg_1.jpg');
+	min-height:600px;
+}
+
+.clsPad_1
+{
+	padding:2px;
+}
+
+
+.clsBorder
+{
+	border-top:1px solid #d1d9ee;
+}
+
+
+
+.clsBg_opt
+{
+	background: url('../images/opt_bg.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.clsVid_Bg {
+    background: black url("../images/play_ico.png") no-repeat scroll center center;
+    border: 6px solid #282837;
+    border-radius: 1px;
+}
