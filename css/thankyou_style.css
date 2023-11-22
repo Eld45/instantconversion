@@ -1,0 +1,356 @@
+body
+{
+	font-family:verdana,sans;
+	font-size:12px;
+	margin:0;
+	background-color:white;
+}
+html
+{
+    margin: 0;
+    padding: 0;	
+}
+ul, li, form, p, h1, h2, h3, h4, h5 ,h6
+{
+	margin:0;
+	list-style:none;
+	padding:0px;
+}
+.clearfix:after
+{
+	content:" ";
+	clear:both;
+	visibility:hedden;
+	display:block;
+	height:0px;
+}
+.clsWrapper
+{
+	width:100%;
+	margin:0px auto;
+}
+.clsHeader
+{
+	
+}
+.clsLogo
+{
+	padding:20px;
+}
+
+
+.clsSp_txt_wh_lft h1
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+    font-size:40px;
+    line-height:50px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_wh_lft h2
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+    font-size:30px;
+    line-height:40px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_wh_lft h3
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+	font-size:25px;
+    line-height:30px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_wh_lft h4
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+    font-size:20px;
+    line-height:30px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_wh_lft h5
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+    font-size:15px;
+    line-height:20px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_wh_lft p
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+    font-size:18px;
+    line-height:25px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+.clsSp_txt_wh_center h1
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+    font-size:40px;
+    line-height:50px;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+}
+.clsSp_txt_wh_center h2
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+    font-size:30px;
+    line-height:40px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_wh_center h3
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+    font-size:25px;
+    line-height:30px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_wh_center h4
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+    font-size:20px;
+    line-height:30px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_wh_center h5
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+    font-size:15px;
+    line-height:20px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_wh_center p
+{
+	color:white;
+    font-family: 'PT Sans', sans-serif;
+	font-size:18px;
+    line-height:25px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+
+
+.clsSp_txt_bl_lft h1
+{
+	color:black;
+    font-family: 'PT Sans', sans-serif;
+    font-size:40px;
+    line-height:50px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_bl_lft h2
+{
+	color:black;
+    font-family: 'PT Sans', sans-serif;
+    font-size:30px;
+    line-height:40px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_bl_lft h3
+{
+	color:black;
+    font-family: 'PT Sans', sans-serif;
+    font-size:25px;
+    line-height:30px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_bl_lft h4
+{
+	color:black;
+    font-family: 'PT Sans', sans-serif;
+    font-size:20px;
+    line-height:30px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_bl_lft h5
+{
+	color:black;
+    font-family: 'PT Sans', sans-serif;
+    font-size:15px;
+    line-height:20px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_bl_lft p
+{
+	color:##222;
+    font-family: 'PT Sans', sans-serif;
+    font-size:18px;
+    line-height:25px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+.clsSp_txt_bl_center h1
+{
+	color:black;
+    font-family: 'PT Sans', sans-serif;
+    font-size:40px;
+    line-height:50px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_bl_center h2
+{
+	color:black;
+    font-family: 'PT Sans', sans-serif;
+    font-size:30px;
+    line-height:40px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_bl_center h3
+{
+	color:black;
+    font-family: 'PT Sans', sans-serif;
+    font-size:25px;
+    line-height:30px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_bl_center h4
+{
+	color:black;
+    font-family: 'PT Sans', sans-serif;
+    font-size:20px;
+    line-height:30px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_bl_center h5
+{
+	color:black;
+    font-family: 'PT Sans', sans-serif;
+    font-size:15px;
+    line-height:20px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+.clsSp_txt_bl_center p
+{
+	color:#222;
+    font-family: 'PT Sans', sans-serif;
+    font-size:18px;
+    line-height:25px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+
+
+
+.clsBg1
+{
+	background:transparent url('../images/bg1.jpg') no-repeat scroll center top;
+}
+.clsBg_transp_bl
+{
+	background:transparent url('../images/trnc_blc.png') ;
+}
+.clsBg_transp_wh
+{
+	background:transparent url('../images/trnc_wht.png') ;
+}
+.clsBg_trans
+{
+	background:transparent url("../images/bg_rept.png") ;
+}
+.clsBg_blue
+{
+	background:#0d142e;
+}
+.clsBg_blue2
+{
+	background:#3e4d79;
+}
+.clsBg_grey
+{
+	background:#f7f7f7;
+}
+.clsBg_black
+{
+	background:#212429;
+}
+.clsBg_white
+{
+	background:white;
+}
+.clsPage_padding
+{
+	padding:30px 30px;
+}
+.clsPage_padding2
+{
+	padding:10px 30px;
+}
+
+.btn-warning.btn_edt {
+    background-color: #f28900;
+    border-color: #f28900;
+    color: #fff;
+	font-family: 'PT Sans', sans-serif;
+	border-radius:30px;
+}
+
+.clsVid_bx_Bg {
+    background: black url("../images/play_ico.png") no-repeat scroll center center;
+    border: 6px solid white;
+    border-radius: 1px;
+}
